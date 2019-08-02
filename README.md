@@ -13,8 +13,7 @@ Script for bruteforcing weak JWT with dictionary
 
 #### Output:
 
-``words count:  10000``
-
-``Checking |██████████████████████████████████████████████████| 100.0% Complete``
-
-``Secret is: victory``
+```
+words count:  10000
+Checking |██████████████████████████████████████████████████| 100.0% Complete
+Secret is: victory
